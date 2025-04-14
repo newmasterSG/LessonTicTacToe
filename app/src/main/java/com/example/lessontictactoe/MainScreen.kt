@@ -35,6 +35,7 @@ fun MainScreen(modifier: Modifier= Modifier)
             textAlign= TextAlign.Center
         )
     }
+    GameBoard()
 }
 
 @Composable
